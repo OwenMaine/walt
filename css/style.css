@@ -330,7 +330,7 @@ input.form-control::placeholder {
 .banner_section::after {
     content: '';
     position: absolute;
-    background-color: #a4d816;
+    background-color: #e9ecee;
     width: 60px;
     height: 762px;
     top: 0px;
